@@ -2,7 +2,7 @@
 ### Seja muito bem vindo ao meu perfil!! 
 
 - 🔭 Atualmente estou trabalhando como Fullstack criando aplicações web utilizando as ferramentas que irei citar a seguir!
-- 🌱 Atualmente estou aprendendo a utilização do typescript para criação de backend
+- 🌱 Também venho aprendendo a utilizar o typescript para criação de uma infraestrutura backend com noções de POO.
 
 ### Ferramentas e tecnologias que utilizo:
 
