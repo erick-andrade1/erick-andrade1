@@ -1,8 +1,9 @@
 ## Olá tudo bem?? Me chamo Erick Veríssimo ! 
 ### Seja muito bem vindo ao meu perfil!! 
 
-- 🔭 Atualmente estou trabalhando como Fullstack criando aplicações web utilizando as ferramentas que irei citar a seguir!
-- 🌱 Também venho aprendendo a utilizar o typescript para criação de uma infraestrutura backend com noções de POO.
+- Atualmente estou trabalhando como Fullstack criando aplicações web utilizando as ferramentas que irei citar a seguir!
+- Atualmente aprendendo a utilizar serviços amazon AWS e Docker para entender mais o mundo do Devops.
+- Estou também participando de um projeto de extensão pela faculdade utilizando golang no backend, projeto esse que visa a automatização das portas da faculdade, na qual os alunos possam acessar salas através de qrcodes.
 
 ### Ferramentas e tecnologias que utilizo:
 
