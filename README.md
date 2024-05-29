@@ -7,13 +7,16 @@
 
 ### Ferramentas e tecnologias que utilizo:
 <div>
-<img src="https://devicons.railway.app/i/go.svg" height="40" width="40" />
+  
 <img src="https://devicons.railway.app/i/react.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"  />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="40" />
+<img src="https://devicons.railway.app/i/go.svg" height="40" width="40" />
+
 </div>
 &nbsp; 
 &nbsp; 
