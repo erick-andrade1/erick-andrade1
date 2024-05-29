@@ -1,13 +1,14 @@
 ## Olá tudo bem?? Me chamo Erick Veríssimo ! 
 ### Seja muito bem vindo ao meu perfil!! 
 
-- Atualmente estou trabalhando como Fullstack criando aplicações web utilizando as ferramentas que irei citar a seguir!
-- Estou também participando de um projeto de extensão pela faculdade utilizando golang no backend, projeto esse que visa a automatização das portas da faculdade, na qual os alunos possam acessar salas através de qrcodes.
+- Estou atuando como desenvolvedor na plataforma [Reddar](https://reddar.vercel.app/) como fullstack, estruturando o frontend com NextJS e o backend com Nodejs e Typescript utilizando arquitetura limpa para melhor estrutura de projeto.
+- Participei de um projeto de extensão chamado de DAMI pela UPE (Universidade de Pernambuco) estruturando e desenvolvendo um backend em Golang, projeto esse que visa a automatização das portas da faculdade, na qual os alunos possam acessar salas através de qrcodes.
+- Atualmente estou trabalhando como Fullstack criando aplicações web utilizando algumas ferramentas que citarei abaixo:
 
 ### Ferramentas e tecnologias que utilizo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://devicons.railway.app/i/go.svg" height="40" width="40" />
+<img src="https://devicons.railway.app/i/react.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" />
