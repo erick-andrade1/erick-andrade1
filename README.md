@@ -18,11 +18,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="40" width="100" />
 
 </div>
-&nbsp; 
-&nbsp; 
-&nbsp; 
-<div>
-<a href="https://github.com/erick-andrade1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-andrade1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-andrade1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
